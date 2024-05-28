@@ -1,0 +1,11 @@
+C:\Users\alex.santos\Dropbox\projeto\Dev\Balta\fina\fina.core\bin\Debug\net8.0\fina.core.deps.json
+C:\Users\alex.santos\Dropbox\projeto\Dev\Balta\fina\fina.core\bin\Debug\net8.0\fina.core.dll
+C:\Users\alex.santos\Dropbox\projeto\Dev\Balta\fina\fina.core\bin\Debug\net8.0\fina.core.pdb
+C:\Users\alex.santos\Dropbox\projeto\Dev\Balta\fina\fina.core\obj\Debug\net8.0\fina.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex.santos\Dropbox\projeto\Dev\Balta\fina\fina.core\obj\Debug\net8.0\fina.core.AssemblyInfoInputs.cache
+C:\Users\alex.santos\Dropbox\projeto\Dev\Balta\fina\fina.core\obj\Debug\net8.0\fina.core.AssemblyInfo.cs
+C:\Users\alex.santos\Dropbox\projeto\Dev\Balta\fina\fina.core\obj\Debug\net8.0\fina.core.csproj.CoreCompileInputs.cache
+C:\Users\alex.santos\Dropbox\projeto\Dev\Balta\fina\fina.core\obj\Debug\net8.0\fina.core.dll
+C:\Users\alex.santos\Dropbox\projeto\Dev\Balta\fina\fina.core\obj\Debug\net8.0\refint\fina.core.dll
+C:\Users\alex.santos\Dropbox\projeto\Dev\Balta\fina\fina.core\obj\Debug\net8.0\fina.core.pdb
+C:\Users\alex.santos\Dropbox\projeto\Dev\Balta\fina\fina.core\obj\Debug\net8.0\ref\fina.core.dll

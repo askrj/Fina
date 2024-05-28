@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rWcAn0FYEkRgjaJXBUC9rjx9tkXWZoNHcZ0brGXcgZk=",
+  "Source": "fina.api",
+  "BasePath": "_content/fina.api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
