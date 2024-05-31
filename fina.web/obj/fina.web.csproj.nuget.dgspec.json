@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alex.santos\\Dropbox\\projeto\\Dev\\Balta\\fina\\fina.web\\fina.web.csproj": {}
+    "C:\\Users\\alex.santos\\Dropbox\\projeto\\Dev\\Balta\\Fina\\fina.web\\fina.web.csproj": {}
   },
   "projects": {
     "C:\\Users\\alex.santos\\Dropbox\\projeto\\Dev\\Balta\\Fina\\fina.core\\fina.core.csproj": {
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\alex.santos\\Dropbox\\projeto\\Dev\\Balta\\fina\\fina.web\\fina.web.csproj": {
+    "C:\\Users\\alex.santos\\Dropbox\\projeto\\Dev\\Balta\\Fina\\fina.web\\fina.web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alex.santos\\Dropbox\\projeto\\Dev\\Balta\\fina\\fina.web\\fina.web.csproj",
+        "projectUniqueName": "C:\\Users\\alex.santos\\Dropbox\\projeto\\Dev\\Balta\\Fina\\fina.web\\fina.web.csproj",
         "projectName": "fina.web",
-        "projectPath": "C:\\Users\\alex.santos\\Dropbox\\projeto\\Dev\\Balta\\fina\\fina.web\\fina.web.csproj",
+        "projectPath": "C:\\Users\\alex.santos\\Dropbox\\projeto\\Dev\\Balta\\Fina\\fina.web\\fina.web.csproj",
         "packagesPath": "C:\\Users\\alex.santos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alex.santos\\Dropbox\\projeto\\Dev\\Balta\\fina\\fina.web\\obj\\",
+        "outputPath": "C:\\Users\\alex.santos\\Dropbox\\projeto\\Dev\\Balta\\Fina\\fina.web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alex.santos\\AppData\\Roaming\\NuGet\\NuGet.Config"

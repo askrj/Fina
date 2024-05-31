@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MYzIBSBCuJBfEIcwMOSqIItiMOWfYkHlzjczQHHSqMyVOKmmudmVkEs6jAK43LlP1XKZnMO4/xviwZauD68F4w==",
+  "dgSpecHash": "ihHbfpOHx2rPQM4OwGgQk4+Fij9mNS1kFWLuNC7DBiWjxFErCA02ckRC5f7Hds6ug6aq5V69wxO/qvsFDqsFGw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alex.santos\\Dropbox\\projeto\\Dev\\Balta\\fina\\fina.web\\fina.web.csproj",
+  "projectFilePath": "C:\\Users\\alex.santos\\Dropbox\\projeto\\Dev\\Balta\\Fina\\fina.web\\fina.web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alex.santos\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.2\\microsoft.aspnetcore.authorization.8.0.2.nupkg.sha512",
     "C:\\Users\\alex.santos\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.2\\microsoft.aspnetcore.components.8.0.2.nupkg.sha512",

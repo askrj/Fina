@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("fina.core")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Fina.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("fina.core")]
-[assembly: System.Reflection.AssemblyTitleAttribute("fina.core")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+498d1764facb813e8676cbc77b64f10e15934be5")]
+[assembly: System.Reflection.AssemblyProductAttribute("Fina.Core")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Fina.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

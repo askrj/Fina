@@ -9,3 +9,4 @@ C:\Users\alex.santos\Dropbox\projeto\Dev\Balta\fina\fina.core\obj\Debug\net8.0\f
 C:\Users\alex.santos\Dropbox\projeto\Dev\Balta\fina\fina.core\obj\Debug\net8.0\refint\fina.core.dll
 C:\Users\alex.santos\Dropbox\projeto\Dev\Balta\fina\fina.core\obj\Debug\net8.0\fina.core.pdb
 C:\Users\alex.santos\Dropbox\projeto\Dev\Balta\fina\fina.core\obj\Debug\net8.0\ref\fina.core.dll
+C:\Users\alex.santos\Dropbox\projeto\Dev\Balta\fina\fina.core\obj\Debug\net8.0\fina.core.sourcelink.json

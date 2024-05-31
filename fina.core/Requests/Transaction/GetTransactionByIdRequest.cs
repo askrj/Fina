@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace fina.core.Requests.Transaction
 {
-    public class GetTransactionByIdRequest
+    public class GetTransactionByIdRequest : Request
     {
         public long Id { get; set; }
     }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alex.santos\\Dropbox\\projeto\\Dev\\Balta\\Fina\\fina.core\\fina.core.csproj": {}
+    "C:\\Users\\alex.santos\\Dropbox\\projeto\\Dev\\Balta\\fina\\Fina.Core\\Fina.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alex.santos\\Dropbox\\projeto\\Dev\\Balta\\Fina\\fina.core\\fina.core.csproj": {
+    "C:\\Users\\alex.santos\\Dropbox\\projeto\\Dev\\Balta\\fina\\Fina.Core\\Fina.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alex.santos\\Dropbox\\projeto\\Dev\\Balta\\Fina\\fina.core\\fina.core.csproj",
-        "projectName": "fina.core",
-        "projectPath": "C:\\Users\\alex.santos\\Dropbox\\projeto\\Dev\\Balta\\Fina\\fina.core\\fina.core.csproj",
+        "projectUniqueName": "C:\\Users\\alex.santos\\Dropbox\\projeto\\Dev\\Balta\\fina\\Fina.Core\\Fina.Core.csproj",
+        "projectName": "Fina.Core",
+        "projectPath": "C:\\Users\\alex.santos\\Dropbox\\projeto\\Dev\\Balta\\fina\\Fina.Core\\Fina.Core.csproj",
         "packagesPath": "C:\\Users\\alex.santos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alex.santos\\Dropbox\\projeto\\Dev\\Balta\\Fina\\fina.core\\obj\\",
+        "outputPath": "C:\\Users\\alex.santos\\Dropbox\\projeto\\Dev\\Balta\\fina\\Fina.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alex.santos\\AppData\\Roaming\\NuGet\\NuGet.Config"

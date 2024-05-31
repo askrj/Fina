@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alex.santos\\Dropbox\\projeto\\Dev\\Balta\\Fina\\fina.api\\fina.api.csproj": {}
+    "C:\\Users\\alex.santos\\Dropbox\\projeto\\Dev\\Balta\\fina\\fina.api\\Fina.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alex.santos\\Dropbox\\projeto\\Dev\\Balta\\Fina\\fina.api\\fina.api.csproj": {
+    "C:\\Users\\alex.santos\\Dropbox\\projeto\\Dev\\Balta\\fina\\fina.api\\Fina.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alex.santos\\Dropbox\\projeto\\Dev\\Balta\\Fina\\fina.api\\fina.api.csproj",
-        "projectName": "fina.api",
-        "projectPath": "C:\\Users\\alex.santos\\Dropbox\\projeto\\Dev\\Balta\\Fina\\fina.api\\fina.api.csproj",
+        "projectUniqueName": "C:\\Users\\alex.santos\\Dropbox\\projeto\\Dev\\Balta\\fina\\fina.api\\Fina.Api.csproj",
+        "projectName": "Fina.Api",
+        "projectPath": "C:\\Users\\alex.santos\\Dropbox\\projeto\\Dev\\Balta\\fina\\fina.api\\Fina.Api.csproj",
         "packagesPath": "C:\\Users\\alex.santos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alex.santos\\Dropbox\\projeto\\Dev\\Balta\\Fina\\fina.api\\obj\\",
+        "outputPath": "C:\\Users\\alex.santos\\Dropbox\\projeto\\Dev\\Balta\\fina\\fina.api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alex.santos\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\alex.santos\\Dropbox\\projeto\\Dev\\Balta\\Fina\\fina.core\\fina.core.csproj": {
-                "projectPath": "C:\\Users\\alex.santos\\Dropbox\\projeto\\Dev\\Balta\\Fina\\fina.core\\fina.core.csproj"
+              "C:\\Users\\alex.santos\\Dropbox\\projeto\\Dev\\Balta\\fina\\Fina.Core\\Fina.Core.csproj": {
+                "projectPath": "C:\\Users\\alex.santos\\Dropbox\\projeto\\Dev\\Balta\\fina\\Fina.Core\\Fina.Core.csproj"
               }
             }
           }
@@ -46,6 +46,26 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -69,14 +89,14 @@
         }
       }
     },
-    "C:\\Users\\alex.santos\\Dropbox\\projeto\\Dev\\Balta\\Fina\\fina.core\\fina.core.csproj": {
+    "C:\\Users\\alex.santos\\Dropbox\\projeto\\Dev\\Balta\\fina\\Fina.Core\\Fina.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alex.santos\\Dropbox\\projeto\\Dev\\Balta\\Fina\\fina.core\\fina.core.csproj",
-        "projectName": "fina.core",
-        "projectPath": "C:\\Users\\alex.santos\\Dropbox\\projeto\\Dev\\Balta\\Fina\\fina.core\\fina.core.csproj",
+        "projectUniqueName": "C:\\Users\\alex.santos\\Dropbox\\projeto\\Dev\\Balta\\fina\\Fina.Core\\Fina.Core.csproj",
+        "projectName": "Fina.Core",
+        "projectPath": "C:\\Users\\alex.santos\\Dropbox\\projeto\\Dev\\Balta\\fina\\Fina.Core\\Fina.Core.csproj",
         "packagesPath": "C:\\Users\\alex.santos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alex.santos\\Dropbox\\projeto\\Dev\\Balta\\Fina\\fina.core\\obj\\",
+        "outputPath": "C:\\Users\\alex.santos\\Dropbox\\projeto\\Dev\\Balta\\fina\\Fina.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alex.santos\\AppData\\Roaming\\NuGet\\NuGet.Config"
